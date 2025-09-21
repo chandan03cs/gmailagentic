@@ -8,7 +8,7 @@ from modules.ai_utils import get_ai_plan
 # CONFIGURATION
 # ----------------------
 # Set your Gemini API key here or use an environment variable for security
-GEMINI_API_KEY = "MY_GEMINI_KEY"
+GEMINI_API_KEY = "GEMINI_API_KEY"
 
 # ----------------------
 # STREAMLIT UI
